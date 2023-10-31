@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\bin\Debug\net7.0\ConceptBehindTuple.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\bin\Debug\net7.0\ConceptBehindTuple.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\bin\Debug\net7.0\ConceptBehindTuple.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\bin\Debug\net7.0\ConceptBehindTuple.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\bin\Debug\net7.0\ConceptBehindTuple.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ConceptBehindTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ConceptBehindTuple.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ConceptBehindTuple.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ConceptBehindTuple.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ConceptBehindTuple.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\refint\ConceptBehindTuple.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ConceptBehindTuple.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ConceptBehindTuple.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ConceptBehindTuple\obj\Debug\net7.0\ref\ConceptBehindTuple.dll

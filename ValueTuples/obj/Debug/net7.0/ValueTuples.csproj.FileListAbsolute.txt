@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\bin\Debug\net7.0\ValueTuples.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\bin\Debug\net7.0\ValueTuples.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\bin\Debug\net7.0\ValueTuples.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\bin\Debug\net7.0\ValueTuples.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\bin\Debug\net7.0\ValueTuples.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ValueTuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ValueTuples.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ValueTuples.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ValueTuples.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ValueTuples.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\refint\ValueTuples.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ValueTuples.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ValueTuples.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ValueTuples\obj\Debug\net7.0\ref\ValueTuples.dll

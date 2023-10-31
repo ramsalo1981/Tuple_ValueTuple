@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\bin\Debug\net7.0\ReturnMultipleValues.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\bin\Debug\net7.0\ReturnMultipleValues.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\bin\Debug\net7.0\ReturnMultipleValues.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\bin\Debug\net7.0\ReturnMultipleValues.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\bin\Debug\net7.0\ReturnMultipleValues.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ReturnMultipleValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ReturnMultipleValues.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ReturnMultipleValues.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ReturnMultipleValues.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ReturnMultipleValues.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\refint\ReturnMultipleValues.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ReturnMultipleValues.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ReturnMultipleValues.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\ReturnMultipleValues\obj\Debug\net7.0\ref\ReturnMultipleValues.dll

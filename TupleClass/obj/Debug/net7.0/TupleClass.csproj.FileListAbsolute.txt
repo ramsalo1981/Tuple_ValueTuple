@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\bin\Debug\net7.0\TupleClass.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\bin\Debug\net7.0\TupleClass.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\bin\Debug\net7.0\TupleClass.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\bin\Debug\net7.0\TupleClass.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\bin\Debug\net7.0\TupleClass.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\TupleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\TupleClass.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\TupleClass.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\TupleClass.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\TupleClass.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\refint\TupleClass.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\TupleClass.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\TupleClass.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CSharp046\TupleClass\obj\Debug\net7.0\ref\TupleClass.dll
